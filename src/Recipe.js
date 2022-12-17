@@ -3,7 +3,8 @@ import React from 'react'
 export default function Recipe() {
   return (
     <div>
-        Hi 
+        <h3>Plain Chicken</h3>
+        
     </div>
   )
 }
